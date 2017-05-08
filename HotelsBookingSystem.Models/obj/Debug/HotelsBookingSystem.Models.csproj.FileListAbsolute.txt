@@ -1,0 +1,5 @@
+D:\Projects\Logos\HotelsBookingSystem\HotelsBookingSystem.Models\bin\Debug\HotelsBookingSystem.Models.dll
+D:\Projects\Logos\HotelsBookingSystem\HotelsBookingSystem.Models\bin\Debug\HotelsBookingSystem.Models.pdb
+D:\Projects\Logos\HotelsBookingSystem\HotelsBookingSystem.Models\obj\Debug\HotelsBookingSystem.Models.dll
+D:\Projects\Logos\HotelsBookingSystem\HotelsBookingSystem.Models\obj\Debug\HotelsBookingSystem.Models.pdb
+D:\Projects\Logos\HotelsBookingSystem\HotelsBookingSystem.Models\obj\Debug\HotelsBookingSystem.Models.csprojResolveAssemblyReference.cache
